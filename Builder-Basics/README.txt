@@ -1,7 +1,7 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: Robert Crawford 
 Donate link: www.robertcrawford.co.nf
-Tags: comments, spam
+Tags: data, form
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -12,9 +12,8 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This Plugin uses Dream Factory to connect to and get, add, remove data from server. 
-You can choose your database type and enter some basic info to start using Dream Factory.
-
+This Plugin uses the already present mySQL database to get, add, remove data. 
+You can choose your data type and get started! then you can display your data on the dashboard or on your website.
 == Installation ==
 
 This section describes how to install the plugin and get it working.
